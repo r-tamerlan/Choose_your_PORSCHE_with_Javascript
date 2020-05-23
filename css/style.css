@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#alqliq {
+    margin: 0;
+    padding: 0;
+}
+
+#basliq:hover,
+#alqliq:hover {
+    cursor: pointer;
+}
+
+#modealStyle {
+    color: maroon;
+    text-align: center;
+    font: bold;
+}
+
+#btn {
+    visibility: hidden;
+}
+
+.gvd {
+    width: 600px;
+    height: 350px;
+    margin: 100px auto;
+}
+
+.basliq {
+    width: 600px;
+    height: 100px;
+    text-align: center;
+    font: bold 24px tahoma;
+    color: darkslategray;
+}
+
+#secenekler {
+    width: 600px;
+    height: 400px;
+    text-align: center;
+    color: darkslategray;
+}
+
+#secim1,
+#secim2 {
+    font: 12px tahoma;
+    width: 300px;
+    height: 300px;
+    float: left;
+    cursor: pointer;
+}
+
+#secim1:hover,
+#secim2:hover {
+    font: bold 14px tahoma;
+    color: rgb(26, 44, 44);
+}

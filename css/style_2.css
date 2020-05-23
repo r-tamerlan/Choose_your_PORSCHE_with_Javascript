@@ -1,0 +1,148 @@
+body {
+    /* background-color: lightslategray; */
+    background-image: url(img/b1.png);
+    margin: 0;
+    padding: 0;
+}
+
+#alqliq {
+    margin: 0;
+    padding: 0;
+}
+
+#basliq:hover,
+#alqliq:hover {
+    cursor: pointer;
+}
+
+#secenek1,
+#secenek2 {
+    font: bold 16px tahoma;
+    color: rgb(214, 214, 214);
+}
+
+.gvd {
+    width: 726px;
+    height: 405px;
+    margin: 100px auto;
+    background-color: #696969;
+    border-radius: 5px;
+}
+
+#sp {
+    font: italic 12px tahoma;
+    color: snow;
+    text-align: center;
+}
+
+.basliq {
+    width: 700px;
+    height: 100px;
+    text-align: center;
+    font: bold 24px tahoma;
+    color: rgb(214, 214, 214);
+}
+
+#slayd {
+    width: 550px;
+    height: 300px;
+    text-align: center;
+    color: darkslategray;
+    float: left;
+    margin: 0 10px 0 5px;
+}
+
+#sec1,
+#sec2 {
+    width: 154px;
+    height: 150px;
+    float: left;
+}
+
+#w1,
+#w2,
+#w3,
+#rengAg,
+#rengQara,
+#rengYasil,
+#rengQirmizi {
+    width: 48px;
+    height: 48px;
+    float: left;
+}
+
+#rengAg {
+    background-color: rgb(214, 207, 207);
+    border-radius: 3px;
+    float: left;
+    margin: 0 3px 0 0;
+}
+
+#rengAg:hover {
+    width: 49px;
+    height: 49px;
+    cursor: pointer;
+    border: 1px solid firebrick;
+}
+
+#rengQara {
+    background-color: rgb(0, 0, 0);
+    border-radius: 3px;
+    float: left;
+}
+
+#rengQara:hover {
+    width: 49px;
+    height: 49px;
+    cursor: pointer;
+    border: 1px solid firebrick;
+}
+
+#rengYasil {
+    background-color: green;
+    border-radius: 3px;
+    float: left;
+    ;
+}
+
+#rengYasil:hover {
+    width: 49px;
+    height: 49px;
+    cursor: pointer;
+    border: 1px solid firebrick;
+}
+
+#rengQirmizi {
+    background-color: red;
+    border-radius: 3px;
+    float: left;
+    margin: 0 3px 0 0;
+}
+
+#rengQirmizi:hover {
+    width: 49px;
+    height: 49px;
+    cursor: pointer;
+    border: 1px solid firebrick;
+}
+
+#w1 {
+    width: 50px;
+    height: 50px;
+    float: left;
+    cursor: pointer;
+}
+
+#w2 {
+    width: 50px;
+    height: 50px;
+    float: left;
+    cursor: pointer;
+}
+
+#w3 {
+    width: 50px;
+    height: 50px;
+    float: left;
+    cursor: pointer;
+}
